@@ -1,0 +1,9 @@
+[project]
+name = "serve-llm-vllm"
+version = "0.1.0"
+description = "vllm 部署子项目"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "vllm>=0.16.0",
+]
